@@ -1,0 +1,32 @@
+/** @format */
+
+body {
+  text-align: center;
+}
+span {
+  font-style: italic;
+}
+h1 {
+  background-color: blueviolet;
+  color: aliceblue;
+}
+div {
+  color: blue;
+  font-weight: 900;
+  font-size: large;
+}
+header .str:hover {
+  color: red;
+}
+.call {
+  display: block;
+  background-color: blueviolet;
+  color: aliceblue;
+  margin: 40px auto;
+  padding: 20px;
+  border-color: grey;
+  border-radius: 20px;
+}
+#contact {
+  color: red;
+}
